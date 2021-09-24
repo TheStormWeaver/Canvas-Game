@@ -1,2 +1,2 @@
 # Canvas-Game
-This is a simple app, demonstrating the use of HTML5 canvas.  Orginally forked from "viktorpts/softuni-canvas" and modified. Instructions on how to use it are located in the two versions of the app up above.
+This is a simple app, demonstrating the use of HTML5 canvas.  Orginally forked from "viktorpts/softuni-canvas" and modified.There are two version of the app - "Button" and "Cat" versions that differ from one another, while still having the base core of the project, instructions on how to use them are located in the two folders app up above (The two are seperate and should not be run together).
